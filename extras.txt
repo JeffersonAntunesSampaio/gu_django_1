@@ -1,0 +1,3 @@
+O django-stubs melhora a integração do Pylint com o Django, 
+permitindo que o Pylint reconheça os métodos e atributos relacionados ao Django, como objects. Você pode instalar o django-stubs com:
+pip install django-stubs
