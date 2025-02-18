@@ -30,10 +30,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', cast=bool, default=False)
 
 ALLOWED_HOSTS = [
-    '*',
-    '35.160.120.126',
-    '44.233.151.27',
-    '34.211.200.85',
+    'django-1-jas.onrender.com',
 ]
 
 
